@@ -1,0 +1,8 @@
+{
+  "name": "Vladimir Strauss",
+  "description": "Example of a project description",
+  "links": [
+    {"name": "Project's site", "path": "/DOCUMENTATION/project-name/SITE"},
+    {"name": "apiDoc", "path": "/DOCUMENTATION/project-name/APIDOCS"}
+  ]
+}

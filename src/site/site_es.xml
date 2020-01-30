@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Envío de documentación a servidor FTP">
+
+    <bannerRight>
+        <src>data:image/png;base64,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</src>
+        <href>https://www.datys.cu/</href>
+    </bannerRight>
+
+    <body>
+        <menu name="Información de proyecto">
+            <item name="Dependencias" href="dependencies.html"/>
+            <item name="Gestión de distribución" href="distribution-management.html"/>
+        </menu>
+        <menu name="Plugins">
+            <item name="Plugins" href="plugins.html"/>
+            <item name="Gestión de Plugins" href="plugin-management.html"/>
+        </menu>
+        <menu name="APIDoc">
+            <item name="APIDoc" href="/apidocs/index.html"/>
+            <item name="Test APIDoc" href="/testapidocs/index.html"/>
+        </menu>
+        <menu name="Reportes">
+            <item name="Reporte Surefire" href="surefire-report.html"/>
+            <item name="Reporte Jacoco" href="/jacoco/index.html"/>
+            <item name="Reporte Failsafe" href="failsafe-report.html"/>
+        </menu>
+        <menu name="Documentación">
+            <item name="ASCIIDoc Doc" href="/asciidoc/generated/example-manual.html"/>
+            <item name="ASCIIDoc PDF" href="/asciidoc/generated2/example-manual.pdf"/>
+            <item name="Markdown Example" href="/markdown/test.html"/>
+            <item name="Markdown Example1" href="/markdown/test1.html"/>
+        </menu>
+    </body>
+
+    <skin>
+        <groupId>org.apache.maven.skins</groupId>
+        <artifactId>maven-fluido-skin</artifactId>
+        <version>1.6</version>
+    </skin>
+
+    <custom>
+        <fluidoSkin>
+            <topBarEnabled>true</topBarEnabled>
+            <sideBarEnabled>true</sideBarEnabled>
+        </fluidoSkin>
+    </custom>
+</project>
